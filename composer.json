@@ -1,0 +1,16 @@
+{
+    "name": "swl/packagetest-for-laravel",
+    "description": "第一个测试包",
+    "autoload": {
+        "psr-4": {
+            "Swl\\PackagetestForLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "swl",
+            "email": "swl@163.com"
+        }
+    ],
+    "require": {}
+}
